@@ -8,6 +8,6 @@ The system manages entry authorization reliably and lays the foundation for futu
 - IoT  
 - C++  
 - Arduino  
-- RFID (MFRC522 Module)  
+- RFID 
 
  
